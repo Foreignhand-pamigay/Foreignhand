@@ -1,0 +1,4 @@
+This is a Brave Creators publisher verification file.
+
+Domain: foreignhand.pages.dev
+Token: 2448008d8e5ec84e2f0a2426c587ccbdf24b40d87e96302bf2c31327a3dca726
